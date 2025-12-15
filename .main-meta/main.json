@@ -6,7 +6,7 @@
       "name":"com.microchip.mplabx.project.dspic33a-curiosity-nano-oob-demo",
       "version":"1.0.0",
       "displayName":"dsPIC33AK Curiosity Nano Out of Box Demo",
-      "projectName":"dspic33a-curiosity-nano-oob-demo",
+      "projectName":"dspic33ak-curiosity-nano-oob-demo",
       "shortDescription":"dsPIC33AK Curiosity Nano Out of Box Demo",
       "ide":{
          "name":"MPLABX",
