@@ -4,7 +4,7 @@
     <img alt="Microchip Logo." src="images/microchip_logo_black_red.png">
 </picture>
 
-## dsPIC33AK Curiosity Nano Out of Box Demo (EV17P63A)
+## dsPIC33AK512MPS506 Curiosity Nano Out of Box Demo (EV17P63A)
 ![Board Image](images/board.png)
 
 ## Summary
@@ -12,12 +12,13 @@
 
 ## Related Documentation
 * [dsPIC33AK512MPS506 Project Page - https://www.microchip.com/en-us/product/dspic33ak512mps506](https://www.microchip.com/en-us/product/dspic33ak512mps506)
-* [dsPIC33AK Curiosity Nano Demo Board Page - https://www.microchip.com/EV17P63A](https://www.microchip.com/EV17P63A)
+* [dsPIC33AK512MPS506 Curiosity Nano Demo Board Page - https://www.microchip.com/EV17P63A](https://www.microchip.com/EV17P63A)
 
 ## Software Used 
 * [MPLAB X 6.25 or later - https://www.microchip.com/mplabx](https://www.microchip.com/mplabx)
 * [XC-DSC 3.21 or later - https://www.microchip.com/xcdsc](https://www.microchip.com/xcdsc)
 * dsPIC33AK-MP_DFP 1.2.135 or later
+* Terminal Software
 
 ## Hardware Used
 * [dsPIC33AK Curiosity Nano Demo Board Page - https://www.microchip.com/EV17P63A](https://www.microchip.com/EV17P63A)
