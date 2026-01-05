@@ -8,7 +8,7 @@
 ![Board Image](images/board.png)
 
 ## Summary
-
+Out of Box demo for the dsPIC33AK512MPS506 Curiosity Nano demo board with simple LED, button, and terminal interaction.
 
 ## Related Documentation
 * [dsPIC33AK512MPS506 Project Page - https://www.microchip.com/en-us/product/dspic33ak512mps506](https://www.microchip.com/en-us/product/dspic33ak512mps506)
