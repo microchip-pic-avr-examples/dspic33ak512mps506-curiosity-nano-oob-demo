@@ -4,7 +4,7 @@
    "content":{
       "metaDataVersion":"1.3.0",
       "name":"com.microchip.mplabx.project.dspic33ak512mps506-curiosity-nano-oob-demo",
-      "version":"1.0.0",
+      "version":"1.0.1",
       "displayName":"dsPIC33AK512MPS506 Curiosity Nano Out of Box Demo",
       "projectName":"dspic33ak512mps506-curiosity-nano-oob-demo",
       "shortDescription":"dsPIC33AK512MPS506 Curiosity Nano Out of Box Demo",
